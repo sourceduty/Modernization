@@ -21,14 +21,17 @@ Looking ahead to 2045, the projected modernization landscape will be characteriz
 
 By 2065, each generation will likely have made significant strides in shaping the future landscape of modernization. Here's a speculative glimpse into what each cohort might experience:
 
-1. Generation X (Born 1965-1980):
-   As seasoned leaders and influencers, Generation X will likely focus on sustainability, innovation, and societal progress. With a keen eye towards preserving the planet for future generations, they may champion renewable energy, eco-friendly technologies, and sustainable practices in industries ranging from manufacturing to transportation. Additionally, Generation X may prioritize initiatives aimed at bridging the gap between generations and fostering intergenerational dialogue and cooperation.
+Generation X (Born 1965-1980)
 
-2. Generation Y (Born 1981-1996):
-   By 2065, Generation Y will have fully embraced the digital age and its transformative potential. As the architects of the information revolution, they may lead efforts to harness emerging technologies such as artificial intelligence, biotechnology, and quantum computing to solve complex global challenges. Moreover, Generation Y may continue to advocate for social justice, equality, and human rights, leveraging their collective voice and digital savvy to effect positive change on a global scale.
+As seasoned leaders and influencers, Generation X will likely focus on sustainability, innovation, and societal progress. With a keen eye towards preserving the planet for future generations, they may champion renewable energy, eco-friendly technologies, and sustainable practices in industries ranging from manufacturing to transportation. Additionally, Generation X may prioritize initiatives aimed at bridging the gap between generations and fostering intergenerational dialogue and cooperation.
 
-3. Generation Z (Born 1997-Early 2010s):
-   With a strong emphasis on inclusivity, diversity, and sustainability, Generation Z will likely spearhead movements for social and environmental change. By 2065, they may have implemented innovative solutions to address pressing issues such as climate change, poverty, and inequality, drawing upon their inherent creativity, resilience, and adaptability. Moreover, Generation Z may redefine traditional notions of work, education, and community, embracing remote work, lifelong learning, and digital collaboration as integral components of their lifestyle.
+Generation Y (Born 1981-1996)
+
+By 2065, Generation Y will have fully embraced the digital age and its transformative potential. As the architects of the information revolution, they may lead efforts to harness emerging technologies such as artificial intelligence, biotechnology, and quantum computing to solve complex global challenges. Moreover, Generation Y may continue to advocate for social justice, equality, and human rights, leveraging their collective voice and digital savvy to effect positive change on a global scale.
+
+Generation Z (Born 1997-Early 2010s)
+
+With a strong emphasis on inclusivity, diversity, and sustainability, Generation Z will likely spearhead movements for social and environmental change. By 2065, they may have implemented innovative solutions to address pressing issues such as climate change, poverty, and inequality, drawing upon their inherent creativity, resilience, and adaptability. Moreover, Generation Z may redefine traditional notions of work, education, and community, embracing remote work, lifelong learning, and digital collaboration as integral components of their lifestyle.
 
 #
 ### 2085 Projection
