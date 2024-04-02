@@ -43,6 +43,9 @@ Generation Alpha (Born from the early 2010s onwards)
 The Generation Alpha cohort of 2065 will likely be at the forefront of a rapidly evolving technological landscape. Having grown up in a world dominated by artificial intelligence, advanced robotics, and augmented reality, they will possess a deep understanding of and fluency in digital technologies. With a strong focus on sustainability and environmental conservation, Generation Alpha will strive to mitigate the impact of climate change and preserve the planet for future generations. They will embrace diversity and inclusivity, leveraging technology to bridge cultural divides and foster global connections. As pioneers of innovation and change, Generation Alpha of 2065 will lead the way in shaping a future characterized by technological advancement, environmental stewardship, and social progress.
 
 #
+
+![Modernized Future](https://github.com/sourceduty/Modernization/assets/123030236/b61edd38-cdbf-46fd-b4f0-c4090cd33933)
+
 ### 2085 Projection
 
 Projecting forward to 2085, the landscape of modernization for future generations will likely be a fascinating blend of cutting-edge technology, sustainable practices, and a deep reverence for the lessons of the past. 
