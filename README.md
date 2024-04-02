@@ -2,7 +2,7 @@
 
 ***
 
-## Projected Modernization for Generation X, Y, Z
+## Projected Modernization for Generation X, Y, Z and Alpha
 
 ### 2045 Projection
 
@@ -35,6 +35,10 @@ By 2065, Generation Y will have fully embraced the digital age and its transform
 Generation Z (Born 1997-Early 2010s)
 
 With a strong emphasis on inclusivity, diversity, and sustainability, Generation Z will likely spearhead movements for social and environmental change. By 2065, they may have implemented innovative solutions to address pressing issues such as climate change, poverty, and inequality, drawing upon their inherent creativity, resilience, and adaptability. Moreover, Generation Z may redefine traditional notions of work, education, and community, embracing remote work, lifelong learning, and digital collaboration as integral components of their lifestyle.
+
+Generation Alpha: (Born from the early 2010s onwards)
+
+The Generation Alpha cohort of 2065 will likely be at the forefront of a rapidly evolving technological landscape. Having grown up in a world dominated by artificial intelligence, advanced robotics, and augmented reality, they will possess a deep understanding of and fluency in digital technologies. With a strong focus on sustainability and environmental conservation, Generation Alpha will strive to mitigate the impact of climate change and preserve the planet for future generations. They will embrace diversity and inclusivity, leveraging technology to bridge cultural divides and foster global connections. As pioneers of innovation and change, Generation Alpha of 2065 will lead the way in shaping a future characterized by technological advancement, environmental stewardship, and social progress.
 
 #
 ### 2085 Projection
