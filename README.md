@@ -50,6 +50,10 @@ The Generation Alpha cohort of 2065 will likely be at the forefront of a rapidly
 
 Projecting forward to 2085, the landscape of modernization for future generations will likely be a fascinating blend of cutting-edge technology, sustainable practices, and a deep reverence for the lessons of the past. 
 
-***
+#
+### Breaking Traditions
 
+Without any traditions your are dancing to the beat of your own drum, embracing the unconventional paths and diverging from the norms. It's about challenging the status quo, daring to explore uncharted territories, and refusing to conform to societal expectations. Being untraditional is a celebration of individuality, creativity, and innovation. It's about finding beauty in the unexpected, discovering new perspectives, and breaking free from the constraints of conventionality. Embracing the untraditional is a journey of self-discovery, where one can fully express their unique identity and make their mark on the world in their own extraordinary way.
+
+***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
