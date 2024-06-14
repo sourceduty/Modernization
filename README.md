@@ -1,9 +1,8 @@
 ![Future](https://github.com/sourceduty/Modernization/assets/123030236/e3c329a1-a1e5-4e01-9c5f-ee86cdaec88c)
 
-***
+> Projected modernization for generation X, Y, Z and Alpha.
 
-## Projected Modernization for Generation X, Y, Z and Alpha
-
+#
 ### 2045 Projection
 
 In the ever-evolving landscape of modernization, each generation holds a unique perspective shaped by the cultural, technological, and societal influences of their time. As we look ahead to 2045, the projected modernization for Generation X, Y, Z and Alpha encompasses a rich tapestry of inspiration spanning decades past, weaving together elements from various eras to create a vibrant and eclectic vision of the future.
