@@ -64,5 +64,12 @@ Without any traditions your are dancing to the beat of your own drum, embracing 
 
 This is important and difficult.
 
+#
+### Related Links
+
+[House Design](https://github.com/sourceduty/House_Design)
+<br>
+[Car Design](https://github.com/sourceduty/Car_Design)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
