@@ -64,6 +64,10 @@ Without any traditions your are dancing to the beat of your own drum, embracing 
 This is important and difficult.
 
 #
+
+![Mirrored](https://github.com/sourceduty/Modernization/assets/123030236/4b905c30-a31b-4561-8afc-dcba372f1aca)
+
+#
 ### Related Links
 
 [House Design](https://github.com/sourceduty/House_Design)
