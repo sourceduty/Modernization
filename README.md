@@ -73,6 +73,8 @@ This is important and difficult.
 [House Design](https://github.com/sourceduty/House_Design)
 <br>
 [Car Design](https://github.com/sourceduty/Car_Design)
+<br>
+[Global Problems](https://github.com/sourceduty/Global_Problems)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
