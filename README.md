@@ -74,12 +74,6 @@ Without any traditions your are dancing to the beat of your own drum, embracing 
 
 > Alex: *"Modernization and managing modernization has been a very difficult challenge for me to organize. I question when human traditions shouldn't be modernized like slavery and fossil fuel. I'm thinking about developing a custom GPT that decides when not to modernize human traditions which might foster a more efficient and modernized society. This custom GPT almost optimizes human modernization which is very difficult and conceptual. These conceptual decisions are what changes a society and culture."*
 
-This is important and difficult.
-
-#
-
-![Mirrored](https://github.com/sourceduty/Modernization/assets/123030236/4b905c30-a31b-4561-8afc-dcba372f1aca)
-
 #
 ### Related Links
 
