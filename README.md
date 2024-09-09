@@ -1,4 +1,4 @@
-![Future](https://github.com/sourceduty/Modernization/assets/123030236/e3c329a1-a1e5-4e01-9c5f-ee86cdaec88c)
+![1920s](https://github.com/user-attachments/assets/9b78ad34-709d-4f21-ad8d-b6c6ef72f0ee)
 
 > Projected modernization for generation X, Y, Z and Alpha.
 
@@ -73,6 +73,10 @@ Without any traditions your are dancing to the beat of your own drum, embracing 
 ![Traditional](https://github.com/sourceduty/Modernization/assets/123030236/c1ad419b-ad1d-4ba3-aeb9-8de012f09286)
 
 > Alex: *"Modernization and managing modernization has been a very difficult challenge for me to organize. I question when human traditions shouldn't be modernized like slavery and fossil fuel. I'm thinking about developing a custom GPT that decides when not to modernize human traditions which might foster a more efficient and modernized society. This custom GPT almost optimizes human modernization which is very difficult and conceptual. These conceptual decisions are what changes a society and culture."*
+
+#
+
+![Future](https://github.com/sourceduty/Modernization/assets/123030236/e3c329a1-a1e5-4e01-9c5f-ee86cdaec88c)
 
 #
 ### Related Links
