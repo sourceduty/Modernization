@@ -1,4 +1,4 @@
-![1920s](https://github.com/user-attachments/assets/9b78ad34-709d-4f21-ad8d-b6c6ef72f0ee)
+![Snowblower 2](https://github.com/user-attachments/assets/c0f58f03-e876-4f19-9ce3-00698186fc36)![1920s](https://github.com/user-attachments/assets/9b78ad34-709d-4f21-ad8d-b6c6ef72f0ee)
 
 > Projected modernization for generation X, Y, Z and Alpha.
 
@@ -28,6 +28,8 @@ Despite the model’s limitations, it has been influential in shaping internatio
 
 #
 ### 2045 Projection
+
+![Snowblower](https://github.com/user-attachments/assets/bbb51360-d1cc-4e18-8496-c3bf42fcb3c6)
 
 In the ever-evolving landscape of modernization, each generation holds a unique perspective shaped by the cultural, technological, and societal influences of their time. As we look ahead to 2045, the projected modernization for Generation X, Y, Z and Alpha encompasses a rich tapestry of inspiration spanning decades past, weaving together elements from various eras to create a vibrant and eclectic vision of the future.
 
