@@ -24,20 +24,20 @@ The oldest infrastructure and buildings in New World countries, primarily locate
 
 Colonial-era infrastructure also features prominently among the oldest buildings in the New World. These include churches, forts, and civic buildings constructed by European settlers using local materials and techniques. Examples such as the Cathedral of Santo Domingo in the Dominican Republic, considered the oldest cathedral in the Americas, and the Castillo San Felipe del Morro in Puerto Rico illustrate how colonial powers established footholds and influenced the architectural landscape. These buildings often combined European styles with indigenous craftsmanship, creating a unique blend that remains culturally significant and historically valuable.
 
-Country                | Building/Infrastructure            | Approx. Date Built | Significance
------------------------------------------------------------------------------------------------------
-Mexico                 | Chichen Itza                      | c. 600 CE          | Mayan temple complex showcasing advanced engineering and cultural practices.
-Peru                   | Machu Picchu                      | c. 1450 CE         | Incan citadel demonstrating sophisticated urban planning.
-Dominican Rep.         | Cathedral of Santo Domingo        | 1512 CE            | Oldest cathedral in the Americas, blending Gothic and Renaissance styles.
-Puerto Rico            | Castillo San Felipe del Morro     | 1539 CE            | Spanish colonial fort guarding San Juan Bay.
-USA                    | Acoma Pueblo                      | c. 1000 CE         | Continuously inhabited Native American settlement with ancient architecture.
-Brazil                 | São Francisco Church and Convent | 1587 CE            | Colonial-era religious complex with Baroque influences.
-Canada                 | Old Quebec (Vieux-Québec)         | 1608 CE            | Historic district and the heart of French colonial presence in Canada.
-Colombia               | San Basilio de Palenque           | 1603 CE            | One of the first free African communities in the Americas, preserving African heritage.
-Honduras               | Copán                             | c. 400 CE          | Maya city with impressive stelae and hieroglyphs, an important archaeological site.
-Argentina              | Jesuit Block and Estancias of Córdoba | 17th century    | A UNESCO World Heritage site showcasing Jesuit influence in Argentina.
-Cuba                   | La Habana Vieja                   | 1519 CE            | Colonial architecture in the historic heart of Havana, reflecting Spanish influence.
-Chile                  | Valparaíso Historic Quarter       | 19th century       | Port city with Victorian architecture and a unique cultural heritage.
+| Country              | Building/Infrastructure           | Approx. Date Built | Significance            |
+|----------------------|-----------------------------------|--------------------|-------------------------|
+| Mexico                 | Chichen Itza                      | c. 600 CE          | Mayan temple complex showcasing advanced engineering and cultural practices.
+| Peru                   | Machu Picchu                      | c. 1450 CE         | Incan citadel demonstrating sophisticated urban planning.
+| Dominican Rep.         | Cathedral of Santo Domingo        | 1512 CE            | Oldest cathedral in the Americas, blending Gothic and Renaissance styles.
+| Puerto Rico            | Castillo San Felipe del Morro     | 1539 CE            | Spanish colonial fort guarding San Juan Bay.
+| USA                    | Acoma Pueblo                      | c. 1000 CE         | Continuously inhabited Native American settlement with ancient architecture.
+| Brazil                 | São Francisco Church and Convent | 1587 CE            | Colonial-era religious complex with Baroque influences.
+| Canada                 | Old Quebec (Vieux-Québec)         | 1608 CE            | Historic district and the heart of French colonial presence in Canada.
+| Colombia               | San Basilio de Palenque           | 1603 CE            | One of the first free African communities in the Americas, preserving African heritage.
+| Honduras               | Copán                             | c. 400 CE          | Maya city with impressive stelae and hieroglyphs, an important archaeological site.
+| Argentina              | Jesuit Block and Estancias of Córdoba | 17th century    | A UNESCO World Heritage site showcasing Jesuit influence in Argentina.
+| Cuba                   | La Habana Vieja                   | 1519 CE            | Colonial architecture in the historic heart of Havana, reflecting Spanish influence.
+| Chile                  | Valparaíso Historic Quarter       | 19th century       | Port city with Victorian architecture and a unique cultural heritage.
 
 #
 ### Modernization
