@@ -165,8 +165,11 @@ Unforeseen site conditions are a common cause of delays in construction projects
 In megaconstruction projects, unforeseen site conditions often involve complex challenges that significantly impact timelines. The Panama Canal expansion, for example, faced unexpected issues with the soil's load-bearing capacity. Engineers discovered that the material beneath the site was weaker than anticipated, requiring redesigns of the locks and additional reinforcement. This not only delayed the project but also added billions to the overall budget. These examples underline the critical role of advanced site assessments, including soil testing, hydrological analysis, and environmental evaluations, to mitigate the risks posed by unanticipated conditions and minimize their impact on project schedules.
 
 #
-
 ![Future](https://github.com/sourceduty/Modernization/assets/123030236/e3c329a1-a1e5-4e01-9c5f-ee86cdaec88c)
+
+#
+
+> Alex: "*I value history, but I'm not nostalgic socially or in any other way.*"
 
 #
 ### Related Links
