@@ -9,7 +9,9 @@ The hustle and bustle of in-person interactions offer an irreplaceable experienc
 Furthermore, the unpredictable nature of real-life interactions adds a layer of excitement that technology has yet to capture. In-person environments encourage serendipity; you might run into an old friend, engage in a chance conversation, or spot something interesting out of the corner of your eye. These unexpected encounters can lead to new friendships, ideas, and experiences that are much harder to find in a simulated space. Additionally, the feeling of shared space and collective experience—like the buzz of a packed concert or the charged atmosphere at a lively sports event—creates a sense of connection with others that amplifies the emotional impact. Simulations may recreate aspects of these events, but they miss the physical presence, the rush of human energy, and the irreplaceable feeling of being part of something greater than oneself.
 
 #
-### Old/Modern World
+### Breaking the Old/Modern World
+
+![Evolve](https://github.com/user-attachments/assets/03d69371-33c3-4292-8ec9-dab8e6bae51f)
 
 The modern world refers to the contemporary era characterized by advanced technology, globalization, and interconnected economies. It is defined by rapid scientific progress, digital communication, and sociopolitical trends that emphasize inclusivity, equality, and environmental consciousness. The modern world is influenced by industrialization and post-industrial economies, fostering innovation and reshaping traditional cultural practices. It reflects a period of intense transformation in governance, education, and personal freedoms, marking a departure from older hierarchical and localized systems.
 
