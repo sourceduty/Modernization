@@ -8,6 +8,12 @@
 
 [Urban Potential](https://chatgpt.com/g/g-68626ee137cc8191b00f5892c657cf0c-urban-potential) is a measurement framework designed to assess a city's capacity for sustainable growth, adaptation, and transformation in response to evolving challenges such as population shifts, economic changes, and climate change impacts. It evaluates key urban dynamics, including infrastructure, land availability, housing conditions, transportation systems, and environmental sustainability efforts. By measuring a city's potential, Urban Potential provides a comprehensive understanding of its ability to handle both current and future pressures, whether related to demographic growth, environmental risks like flooding or heatwaves, or economic shifts. It considers both short-term needs and long-term goals, offering insights into areas where a city can thrive or where improvements are necessary to ensure resilience, livability, and economic vitality over time.
 
+<br>
+
+![Top 10 Cities](https://github.com/user-attachments/assets/2b7c81d2-6c3a-405a-8ab6-8e1458c5331d)
+
+<br>
+
 This measurement framework allows urban planners, policymakers, and developers to make informed decisions by providing a clear picture of a city's strengths, weaknesses, and opportunities. By assessing factors like zoning laws, available land for redevelopment, and the existing state of environmental sustainability initiatives, Urban Potential generates data-driven insights for effective urban planning. It enables cities to prioritize strategies such as improving infrastructure, adapting to climate change, enhancing public transportation, and addressing housing affordability. Ultimately, Urban Potential helps guide cities in creating adaptive, forward-thinking strategies that balance growth, sustainability, and resilience, ensuring that urban spaces are equipped to face both the challenges and opportunities of the future.
 
 #
