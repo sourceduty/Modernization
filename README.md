@@ -29,7 +29,9 @@ This measurement framework allows urban planners, policymakers, and developers t
 [International Power](https://chatgpt.com/g/g-6862baf1fff88191ac43e4410c8b7ca2-international-power) is a measurement of a nation's ability to influence or control other nations through a variety of means, including diplomatic, economic, military, and cultural strategies. It is a measure of a country's global influence and its capacity to shape international relations, norms, and policies to align with its national interests. A nation with significant international power can project its influence both directly and indirectly, through alliances, trade agreements, and military presence, or through the use of soft power like media, cultural exports, and educational diplomacy. 
 
 <br>
+
 ![International Power](https://github.com/user-attachments/assets/27dc2ca8-70cd-48cb-b836-aa119e0702cf)
+
 <br>
 
 An example of international power is the United States, which exerts considerable influence on the world stage through its economic might, military dominance, and political leadership. The U.S. is a permanent member of the United Nations Security Council and plays a central role in global institutions like the World Bank and the International Monetary Fund. Its economic policies impact global markets, while its military presence around the world ensures strategic dominance. Additionally, American cultural exports, such as films, technology, and media, spread its values and norms globally, shaping the international landscape in its favor.
