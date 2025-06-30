@@ -24,6 +24,10 @@ This measurement framework allows urban planners, policymakers, and developers t
 
 #
 
+Alex: _I'm always trying to utilize the maximum potential of Sourceduty across sciences using available knowledge, computation power and populations as this company expands. I'm very persistent and I enforce the updated importance of this work._
+
+#
+
 [House Design](https://github.com/sourceduty/House_Design)
 <br>
 [Architecture Construction](https://github.com/sourceduty/Architecture_Construction)
