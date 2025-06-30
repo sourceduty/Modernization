@@ -12,7 +12,7 @@ This measurement framework allows urban planners, policymakers, and developers t
 
 #
 
-![Modern](https://github.com/user-attachments/assets/6ccdbc23-12ab-4e1d-9a41-a4e63cf8f4d3)
+![Modern](https://github.com/user-attachments/assets/4d10ce15-6680-4784-939d-e08fe381ef41)
 
 [Theoretical Modernization](https://chatgpt.com/g/g-675fdc0e0774819195d966e03ae64403-theoretical-modernization) refers to a systematic framework for understanding, analyzing, and predicting the evolution of complex systems, particularly as they transition through processes of modernization over time. It focuses on constructing models that capture the essential dynamics and interactions between components or agents within various domains—such as technology, society, economy, and politics—while exploring how these elements interact and influence one another. The aim is to identify the key factors driving modernization processes, whether it's technological innovation, social transformation, or economic shifts. By examining systemic interactions and feedback loops, theoretical modernization seeks to understand the underlying forces shaping the development trajectory of systems and offers predictive insights into potential future changes. This approach can be applied to study trends like the impact of digital technologies on industries, the societal implications of new governance models, or the economic disruptions caused by global geopolitical events. Ultimately, it provides a structured, multidisciplinary lens for grasping the complexities of modern systems and their ongoing evolution.
 
