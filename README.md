@@ -4,7 +4,7 @@
 
 #
 
-![Urban Potential](https://github.com/user-attachments/assets/950c31ee-06fc-4fb0-872d-f36a9dac1fd5)
+![City Street](https://github.com/user-attachments/assets/24dcbdfc-552a-47e6-a753-857a85760928)
 
 [Urban Potential](https://chatgpt.com/g/g-68626ee137cc8191b00f5892c657cf0c-urban-potential) is a measurement framework designed to assess a city's capacity for sustainable growth, adaptation, and transformation in response to evolving challenges such as population shifts, economic changes, and climate change impacts. It evaluates key urban dynamics, including infrastructure, land availability, housing conditions, transportation systems, and environmental sustainability efforts. By measuring a city's potential, Urban Potential provides a comprehensive understanding of its ability to handle both current and future pressures, whether related to demographic growth, environmental risks like flooding or heatwaves, or economic shifts. It considers both short-term needs and long-term goals, offering insights into areas where a city can thrive or where improvements are necessary to ensure resilience, livability, and economic vitality over time.
 
